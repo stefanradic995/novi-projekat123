@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Moj drugi projekat</title>
+	<style>
+	body {
 
-You can use the [editor on GitHub](https://github.com/stefanradic995/novi-projekat123/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		background-image: url(https://i.ytimg.com/vi/4CTXT90IFgQ/maxresdefault.jpg);
+		background-repeat: repeat-x;
+		background-size: cover;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		color: white;
+			}
+</style>
+</head>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stefanradic995/novi-projekat123/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body>
+<h1><center>Verstappen osvojio pole poziciju na VN Austrije</center></h1>
+<hr />
+<h3><bold><center>Sedam dana nakon pobjede Maxa Verstappena na VN Strajerske, mladi Holandjanin ne prestaje odusevljavati svojim nastupima</h3></bold></center>
+<center><img src="https://www.dutchnews.nl/wpcms/wp-content/uploads/2018/07/Verstappen-Austria-GP-2018-1200x800.jpg" alt="Verstappen u Austriji" style="width:900px;height:500px;"></center>
+<hr />
+<p>Max Verstappen iz Red Bulla bio je najbrži na trećem slobodnom treningu uoči kvalifikacija za Veliku nagradu Austrije. Uspjelo mu je to s vremenom 1’04.591. Drugi i treći najbrži bili su Mercedesovi vozači, Bottas ispred Hamiltona, ali obojici je do Verstappena nedostajalo više od pola sekunde.</p>
+<p>Mazepin, Russell i Norris otvorili su današnji trening. Norris je postavio prvo značajno vrijeme 1’06.454. Nakon toga neko su se vrijeme na vrhu poretka izmjenjivala dva vozača AlphaTaurija, Tsunoda je bio brži s 1’06.045. U prvih deset minuta samo je deset vozača postavilo vrijeme, a većina je vozila na testnim gumama.</p>
+<p>Norris se na softu prvi danas spustio ispod 1’06 i to kada je ostalo negdje oko pola sata do kraja treninga. Verstappen do tog trenutka nije bio na stazi i jedini je bio bez vremena. Hamiltom i Bottas izašli su prvi puta petnest minuta nakon početka treninga, također na testnim gumama i njihova vremena nisu bila značajna.</p>
+<p>Kada je Verstappen napokon izašao na stazu odmah je na softu postavio i daleko najbrži krug od 1’04.941. Odmah iza njega smjestio se Leclerc, ali njemu je nedostajao šest desetinki do Verstappena.</p>
+<p>Mercedesovi vozači uspjeli su se ugurati iza Versappena nakon što su se prebacili na soft. Međutim, Hamiltonu je nedostajalo najprije oko pola sekunde, a onda tri desetinke do Nizozemca, dok je Bottasu nedostajalo šest desetinki. Leclerc se još malo popravio pa je preskočio Bottasa.</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/P656ZUf7gkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<hr />
+<p>Vise informacija na stranici <a href="https://f1.pulsmedia.hr/">Pulsmedia.hr</a></p>
+</body>
+</html>
